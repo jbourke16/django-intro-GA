@@ -1,5 +1,5 @@
 <!-- {% raw %} -->
-<img src="https://imgur.com/RWixB90">
+<img src="https://i.imgur.com/RWixB90.png">
 
 # Intro to Django
 
@@ -55,7 +55,7 @@ Why did they call it MVT if it's basically MVC?
 
 This diagram visually outlines the relationships between the different components of a Django project:
 
-<img src="https://imgur.com/1fFg7lz">
+<img src="https://i.imgur.com/1fFg7lz.png">
 
 The quirky thing about Django is how it names its high-level components.
 
@@ -318,7 +318,7 @@ Our stations will have the following:
   - Name
   - Lines
 
-![UML Diagram](https://raw.git.generalassemb.ly/seb-starfish/intro-to-django/b50b257b93525b1c60dd2fff8cfc96f8dd5df333/train-station-erd.svg?token=AAAMTXQMEMNRMUEW5A4KE4DGHZXQM)
+<img src="https://raw.git.generalassemb.ly/seb-starfish/intro-to-django/main/train-station-erd.svg?token=AAAMTXWSY4UBID77KWNVPWTGI6VWA">
 
 ```python
 # subway/models.py
@@ -387,3 +387,5 @@ Work on the tutorial through Part 4.
 
 [Django Homepage](https://www.djangoproject.com/)
 <!-- {% endraw %} -->
+
+NOTE: This is for education reference, from General Assembly.
